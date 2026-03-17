@@ -1,0 +1,15 @@
+export const PROVINCES = [
+  { code: "AB", name: "Alberta",                 gst: 5,    hst: null },
+  { code: "BC", name: "British Columbia",        gst: 5,    hst: null },
+  { code: "MB", name: "Manitoba",                gst: 5,    hst: null },
+  { code: "SK", name: "Saskatchewan",            gst: 5,    hst: null },
+  { code: "ON", name: "Ontario",                 gst: null, hst: 13   },
+  { code: "QC", name: "Quebec",                  gst: 5,    hst: null },
+  { code: "NB", name: "New Brunswick",           gst: null, hst: 15   },
+  { code: "NL", name: "Newfoundland",            gst: null, hst: 15   },
+  { code: "NS", name: "Nova Scotia",             gst: null, hst: 15   },
+  { code: "PE", name: "Prince Edward Island",    gst: null, hst: 15   },
+  { code: "NT", name: "Northwest Territories",   gst: 5,    hst: null },
+  { code: "NU", name: "Nunavut",                 gst: 5,    hst: null },
+  { code: "YT", name: "Yukon",                   gst: 5,    hst: null },
+];
